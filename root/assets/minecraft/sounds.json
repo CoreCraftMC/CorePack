@@ -1,0 +1,10 @@
+{
+  "lightning.strike": {
+    "sounds": [
+      {
+        "name": "custom/lightning"
+      }
+    ],
+    "subtitle": "Boom"
+  }
+}
